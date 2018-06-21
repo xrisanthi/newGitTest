@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # read an image
-image = misc.imread("C:\\Users\c.iakovidou\Desktop\kohle_akt_1_by_m_schoessler-d90amzz.jpg", mode="L")
+image = misc.imread("C:\\Users\c.iakovidou\Desktop\kohle_akt_1_by_m_schoessler-d90amzz.jpg", mode="L") #path to image
 print(type(image[3 ,1]))
 print(image.min())
 print(image.max())
