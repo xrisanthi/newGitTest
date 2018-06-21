@@ -1,6 +1,6 @@
 from scipy import misc
 import numpy as np
-from scipy import ndimage
+# from scipy import ndimage
 import matplotlib.pyplot as plt
 
 # read an image
